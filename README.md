@@ -18,9 +18,9 @@ Configuration
 Create a file config.py and set the following variables in it. For execute\_str, {} is where you want the session name to be in the command.
 
 ```
-attached\_icon = '/path/to/tmux\_menu/icons/green.png'
-dettached\_icon = '/path/to/tmux\_menu/icons/red.png'
-execute\_str =  '/usr/bin/urxvt -e bash -c "tmux attach-session -t {}"'
+attached_icon = '/path/to/tmux_menu/icons/green.png'
+dettached_icon = '/path/to/tmux_menu/icons/red.png'
+execute_str =  '/usr/bin/urxvt -e bash -c "tmux attach-session -t {}"'
 ```
 
 Here are some sample execute commands to attach using various terminal emulators. Most VTs take '-e' as an argument for execute, so ones not listed here will likely be similar.
