@@ -44,3 +44,7 @@ lxterminal
 ```
 /usr/bin/lxterminal -e "bash -c 'tmux attach-session -t {}'"
 ```
+
+License
+=======
+This is released under the MIT license. 
