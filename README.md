@@ -1,7 +1,7 @@
 
 This is a script which creates an openbox dynamic menu allowing you to view current tmux sessions as well as launch terminals attaching to them. It currently lists the name of the session and the number of windows the session contains. There is also an icon which indicates if anything is currently attached to that session or not.
 
-![Tmux Menu in Action](/raw/screenshot.png?waw=true "Tmux Menu in Action")
+![Tmux Menu in Action](https://raw.githubusercontent.com/dannyn/tmux_menu/master/screenshot.png "Tmux Menu in Action")
 
 Installation
 ============
