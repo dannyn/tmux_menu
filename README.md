@@ -15,7 +15,7 @@ Clone a copy of this repo somewhere. I prefer to use ~/.config/openbox/scripts. 
 Configuration
 =============
 
-The following variables need to be set in config.py. For execute\_str, {} is where you want the session name to be in the command.
+Create a file config.py and set the following variables in it. For execute\_str, {} is where you want the session name to be in the command.
 
 ```
 attached\_icon = '/path/to/tmux\_menu/icons/green.png'
